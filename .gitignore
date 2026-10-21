@@ -1,0 +1,21 @@
+# Byte-compiled / archivos de ejecución de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Configuraciones de editores e IDEs
+.vscode/
+.idea/
+
+# Variables de entorno y secretos
+.env
+*.env
+
+# Archivos temporales del sistema operativo
+Thumbs.db
+.DS_Store
